@@ -1,11 +1,10 @@
 s1 = []
 s2 = []
 o = 5
-while(o!=4):
+while(o!=3):
     print("1-Push",end=" || ")
     print("2-Pop",end=" || ")
-    print("3-Print",end=" || ")
-    print("4-Exit")
+    print("3-Exit")
     o = int(input())
     if o == 1:
         print("Enter Number: ",end="")
