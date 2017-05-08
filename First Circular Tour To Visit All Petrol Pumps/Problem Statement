@@ -1,0 +1,7 @@
+There are n petrol pumps on circular path. You are given two sets of data.
+
+1. The amount of petrol that every petrol pump has.
+2. Distance from that petrol pump to the next petrol pump.
+
+Calculate the first point from where a truck will be able to complete the circle.
+Truck needs one unit of petrol to travel one unit distance.

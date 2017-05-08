@@ -1,3 +1,5 @@
+# First read problem statement
+
 from queue import Queue
 
 class PetrolPump:
